@@ -1,10 +1,8 @@
-asd
+*A simple Windows program made in C# to test C++ console applicatios for different test cases, speed and memory usage.*
 
-## Welcome to GitHub Pages
+## How to Use
 
-You can use the [editor on GitHub](https://github.com/vesk4000/Local-CPP-Judge-System/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![#f03c15](!) `!#f03c15`
 
 ### Markdown
 
