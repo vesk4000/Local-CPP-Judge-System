@@ -1,0 +1,9 @@
+E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\bin\Release\Local C++ Judge System.exe.config
+E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\bin\Release\Local C++ Judge System.exe
+E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\bin\Release\Local C++ Judge System.pdb
+E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\obj\Release\Local_C___Judge_System.Form1.resources
+E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\obj\Release\Local_C___Judge_System.Properties.Resources.resources
+E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\obj\Release\Local C++ Judge System.csproj.GenerateResource.cache
+E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\obj\Release\Local C++ Judge System.csproj.CoreCompileInputs.cache
+E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\obj\Release\Local C++ Judge System.exe
+E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\obj\Release\Local C++ Judge System.pdb
