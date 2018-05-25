@@ -16,7 +16,7 @@
 
 6. Set the memory limit (in bytes) for the program (same as the time limit)
 
-7. Press Evaluate
+7. Press *Evaluate*
 
 8. ```ok``` means that the output is right, ```wa``` means that the output is wrong, ```tl``` means that on the particular test your program's runtime exceeded the time limit, ```ml``` means that on the particular test your program's memory usage exceeded the memory limit
 
