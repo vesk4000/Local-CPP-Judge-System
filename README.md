@@ -4,7 +4,12 @@
 
 **!Remember to temporarily turn off your antivirus program to stop it from interfering with the progaram, or put ```%appdata%\Vesk``` in the exceptions of your antivirus**
 
-Firstly, select your g++ compiler(it should get saved, so next time you don't have to select it); if you have [Code::Blocks](http://www.codeblocks.org/) installed it should have installed g++ with it; if you don't have g++ you can install [MinGW](http://www.mingw.org/);
+1. Select your g++ compiler (it should get saved, so next time you don't have to select it); if you have [Code::Blocks](http://www.codeblocks.org/) installed it should have installed g++ with it; if you don't have g++ you can install [MinGW](http://www.mingw.org/)
+
+2. Select the ```.cpp``` source file of your program (the program doesn't support programs with more than one source file)
+
+3. 
+
 
 ### Markdown
 
