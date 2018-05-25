@@ -2,10 +2,7 @@
 
 ## How to Use
 
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
+**! Remember to temporarily turn off your antivirus program to stop it from interfering with the progaram, or put ```%appdata%\Vesk``` in the exceptions of your antivirus**
 
 ### Markdown
 
