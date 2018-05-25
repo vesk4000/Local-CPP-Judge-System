@@ -2,7 +2,8 @@
 
 ## How to Use
 
-**! Remember to temporarily turn off your antivirus program to stop it from interfering with the progaram, or put ```%appdata%\Vesk``` in the exceptions of your antivirus**
+**!Remember to temporarily turn off your antivirus program to stop it from interfering with the progaram, or put ```%appdata%\Vesk``` in the exceptions of your antivirus**
+Firstly, select your g++ compiler(it should get saved, so next time you don't have to select it); if you have [Code::Blocks](http://www.codeblocks.org/) installed it should have installed g++ with it; if you don't have g++ you can install [MinGW](http://www.mingw.org/);
 
 ### Markdown
 
