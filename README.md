@@ -2,7 +2,7 @@
 
 ## How to Use
 
-**!Remember to temporarily turn off your antivirus program to stop it from interfering with the progaram, or put ```%appdata%\Vesk``` in the exceptions of your antivirus**
+**!Remember to temporarily turn off your antivirus program to stop it from interfering with the program, or put ```%appdata%\Vesk``` in the exceptions of your antivirus**
 
 1. Run ```Release\Local C++ Judge System.exe```
 
