@@ -2,7 +2,10 @@
 
 ## How to Use
 
-![#f03c15](!) `!#f03c15`
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
 
 ### Markdown
 
