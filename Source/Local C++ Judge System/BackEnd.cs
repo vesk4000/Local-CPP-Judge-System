@@ -113,7 +113,7 @@ namespace Local_C___Judge_System
 
                 r.testResults[r.testResults.Count - 1] = tt + ": " + r.testResults[r.testResults.Count - 1];
             }
-            Program.mf.listBoxResults.Items.Add(Convert.ToString(r.ok) + "/" + r.testResults.Count + " or " + Convert.ToString(100 / r.testResults.Count * r.ok) + "%");
+            Program.mf.listBoxResults.Items.Add(Convert.ToString(r.ok) + "/" + r.testResults.Count + " or " + Convert.ToString(100 * r.ok / r.testResults.Count) + "%");
             foreach (string tt in r.testResults)
             {
                 Program.mf.listBoxResults.Items.Add(tt);

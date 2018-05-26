@@ -8,3 +8,13 @@ E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judg
 E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\obj\Debug\Local C++ Judge System.csproj.CoreCompileInputs.cache
 E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\obj\Debug\Local C++ Judge System.exe
 E:\Vesk\Informatika\Visual Studio Projects\Local C++ Judge System\Local C++ Judge System\obj\Debug\Local C++ Judge System.pdb
+E:\Vesk\Informatika\Judge System\GitHub\Source\Local C++ Judge System\bin\Debug\Local C++ Judge System.exe.config
+E:\Vesk\Informatika\Judge System\GitHub\Source\Local C++ Judge System\bin\Debug\Local C++ Judge System.exe
+E:\Vesk\Informatika\Judge System\GitHub\Source\Local C++ Judge System\bin\Debug\Local C++ Judge System.pdb
+E:\Vesk\Informatika\Judge System\GitHub\Source\Local C++ Judge System\obj\Debug\Local C++ Judge System.csprojAssemblyReference.cache
+E:\Vesk\Informatika\Judge System\GitHub\Source\Local C++ Judge System\obj\Debug\Local_C___Judge_System.Form1.resources
+E:\Vesk\Informatika\Judge System\GitHub\Source\Local C++ Judge System\obj\Debug\Local_C___Judge_System.Properties.Resources.resources
+E:\Vesk\Informatika\Judge System\GitHub\Source\Local C++ Judge System\obj\Debug\Local C++ Judge System.csproj.GenerateResource.cache
+E:\Vesk\Informatika\Judge System\GitHub\Source\Local C++ Judge System\obj\Debug\Local C++ Judge System.csproj.CoreCompileInputs.cache
+E:\Vesk\Informatika\Judge System\GitHub\Source\Local C++ Judge System\obj\Debug\Local C++ Judge System.exe
+E:\Vesk\Informatika\Judge System\GitHub\Source\Local C++ Judge System\obj\Debug\Local C++ Judge System.pdb
