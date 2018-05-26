@@ -11,7 +11,7 @@
 
 3. Select the ```.cpp``` source file of your program (the program doesn't support programs with more than one source file)
 
-4. Select the folder in which the tests are; each test is a ```.in``` input file and a ```.sol``` expected output;
+4. Select the folder in which the tests are (enter the folder to select it); each test is a ```.in``` input file and a ```.sol``` expected output;
 
 5. Set the time limit (in milliseconds) for the program (the time limit is for each test case, not all of them combined)
 
