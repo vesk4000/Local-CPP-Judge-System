@@ -1,6 +1,6 @@
 *A simple Windows program made in C# to test C++ console applicatios for different test cases, speed and memory usage.*
 
-[Directly Download The Release](https://github.com/vesk4000/Local-CPP-Judge-System/releases/tag/1.0.0)
+[Directly Download the Release](https://github.com/vesk4000/Local-CPP-Judge-System/releases/tag/1.0.0)
 ## How to Use
 
 **!Remember to temporarily turn off your antivirus program to stop it from interfering with the program, or put ```%appdata%\Vesk``` in the exceptions of your antivirus**
